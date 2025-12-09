@@ -1,3 +1,5 @@
 task.txt
-venv/
+**/*.csv
 **/__pycache__/*
+venv/
+test/
